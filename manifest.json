@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "description": "Everyday tools and utilities",
+  "dir": "ltr",
+  "display": "browser",
+  "name": "ZenTimber",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ZenTimber",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/zentimber_16.png"
+    }
+  ]
+}
